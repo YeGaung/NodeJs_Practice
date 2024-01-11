@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "62b3a4d6-f769-44a7-a049-921d32bf5dc4",
+        "name": "YG Da Handsome",
+        "email": "YGDaHandsome@abc.com",
+        "password": "$2a$13$AbfQhlBwl18XGFfRUwVmxe8EW7UGeklXDO3yJyeBojdYFnmS/Alt2"
+    },
+    {
+        "_id": "4876d9da-742b-42e7-a252-b02a5ed46589",
+        "name": "YG Da Great",
+        "email": "YGDaGreat@abc.com",
+        "password": "$2a$13$FSkzmw87h0iNE6FxkAnGcOfl9YUzBh0Xdi.5G4HaO15P.TxhsKabS"
+    }
+]

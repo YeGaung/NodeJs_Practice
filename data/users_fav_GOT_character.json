@@ -1,0 +1,28 @@
+[
+    {
+        "userId": "4876d9da-742b-42e7-a252-b02a5ed46589",
+        "favGotCharacter": {
+            "name": "Jon Snow",
+	        "gender": "Male",
+	        "culture": "Northmen",
+	        "born": "In 283 AC",
+            "aliases": [
+                "Lord Snow"
+            ],
+            "house": {
+                "name": "House Stark of Winterfell",
+                "region": "The North",
+                "coatOfArms": "A running grey direwolf, on an ice-white field",
+                "words": "Winter is Coming",
+                "founder": {
+                    "name": "Brandon Stark",
+                    "gender": "Male",
+                    "culture": "First Men",
+                    "titles": [
+                        "King of Winter"
+                    ]
+                }
+            }
+        }
+    }
+]
